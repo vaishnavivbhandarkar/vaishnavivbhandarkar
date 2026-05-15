@@ -7,7 +7,7 @@ I turn ambiguous business problems into structured analyses, build AI-enabled da
 ---
 
 ### 🔭 What I'm working on
-- 🏨 **AI-Powered Hospitality Demand Forecaster** — LLM-augmented forecasting cutting MAPE from 14% → 8%
+- 🏨 **AI-Powered Hospitality Demand Forecaster** — LLM-augmented forecasting cutting MAPE from 14.5% → 8%
 - 📊 **Sales Performance & Revenue Analytics Dashboard** — End-to-end SQL + Python + Power BI pipeline on 1M+ transactions
 - 💼 Open to full-time **Data / Business / Operations / Marketing Analyst** roles starting 2026
 
